@@ -2,7 +2,7 @@
 <html>
 	<body>
 		<form action="zadanie2.php" method="post">
-		<h2>Witaj w kalkulatorze BMI</h2>
+		<h2>Kalkulator BMI</h2>
 		
 		<label> Podaj swoją wagę (kg): <input type="txt" name="waga" /></label><br>
 		<label> Podaj swój wzrost: <input type="txt" name="wzrost" /></label>
